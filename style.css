@@ -55,6 +55,7 @@
     line-height: 50px;
     font-family: 'Barlow', sans-serif;
     color: #004f9e;
+    transition: all 0.5s ease;
 }
 
 .content-box p{
