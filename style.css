@@ -71,6 +71,10 @@
     text-decoration: underline;
 }
 
+.content-box li{
+    display: none;
+}
+
 #c_img { 
     position: absolute;  
     top: 37px;  
